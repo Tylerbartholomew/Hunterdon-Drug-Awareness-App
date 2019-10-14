@@ -11,6 +11,7 @@ import {
 } from 'react-native';
 
 import { MonoText } from '../components/StyledText';
+import Colors from '../constants/Colors';
 
 export default function HomeScreen() {
   return (
@@ -127,7 +128,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     marginTop: 10,
     marginBottom: 20,
-    backgroundColor: '#7AF0C5',
+    backgroundColor: Colors.primary,
   },
   welcomeImage: {
     width: 300,

@@ -15,10 +15,10 @@
       "bundleIdentifier": "com.HCCodeClub.testProject",
       "supportsTablet": true
     },
-    "version": "1.0.1",
+    "version": "1.0.2",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "primaryColor": "#7AF0C5",
+    "primaryColor": "#6d76c0",
     "splash": {
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
